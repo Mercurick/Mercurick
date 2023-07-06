@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm intern frontend developer</h1> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **Mercurick/Mercurick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+---
+>
+###
 -->
